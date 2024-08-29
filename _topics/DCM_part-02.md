@@ -1,6 +1,6 @@
 ---
 title: "More on Networks"
-excerpt: "DCM<br/><img src='/images/fMRI.png'>"
+excerpt: "DCM<br/><img src='/images/fMRI.png' width="580" height="300">"
 collection: topics
 ---
 
