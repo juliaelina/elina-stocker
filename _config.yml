@@ -12,7 +12,7 @@ title                    : "Elina Stocker"
 title_separator          : "-"
 name                     : &name "Elina Stocker"
 description              : &description "PhD student at the University of Marburg"
-url                      : https://elina-stocker.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://juliaelina.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "juliaelina/elina-stocker.github.io"
 
