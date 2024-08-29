@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Elina Stocker / A personal Website"
+title                    : "Elina Stocker"
 title_separator          : "-"
 name                     : &name "Elina Stocker"
 description              : &description "PhD student at the University of Marburg"
@@ -261,10 +261,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _topics
   - scope:
       path: ""
-      type: portfolio
+      type: topics
     values:
       layout: single
       author_profile: true
