@@ -1,6 +1,6 @@
 ---
-title: "My quest to understanding DCM"
-excerpt: "The early beginnings<br/><img src='/images/500x300.png'>"
+title: "The early beginnings"
+excerpt: "DCM <br/><img src='/images/network.png'>"
 collection: topics
 ---
 

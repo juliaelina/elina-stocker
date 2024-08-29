@@ -1,6 +1,6 @@
 ---
-title: "My quest to understanding DCM"
-excerpt: "More on Networks<br/><img src='/images/500x300.png'>"
+title: "More on Networks"
+excerpt: "DCM<br/><img src='/images/fMRI.png'>"
 collection: topics
 ---
 
