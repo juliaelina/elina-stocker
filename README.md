@@ -1,4 +1,5 @@
 # My personal Website
+This is the url: https://juliaelina.github.io/elina-stocker/
 
 Should include: 
 - my bio, headshot (CV)
