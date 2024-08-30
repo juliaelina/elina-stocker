@@ -1,6 +1,6 @@
 ---
 title: "The early beginnings"
-excerpt: "DCM <br/><img src='/images/network.png' width='250' height='250'>"
+excerpt: "DCM <br/><img src='images/network.png' width='250' height='250'>"
 collection: topics
 ---
 
