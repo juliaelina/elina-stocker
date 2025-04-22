@@ -6,7 +6,7 @@ permalink: /publication/Stocker2023-NetControllability
 excerpt: 'This paper is about the average and modal controllability of subnetworks.'
 date: 2023-02-09
 venue: 'Journal of Neural Engineering'
-paperurl: '[Stocker2023-NetControllability](https://github.com/juliaelina/elina-stocker/blob/master/files/Stocker_2023_J._Neural_Eng._20_016044.pdf)'
+paperurl: 'https://github.com/juliaelina/elina-stocker/blob/master/files/Stocker_2023_J._Neural_Eng._20_016044.pdf'
 citation: 'Stocker, J. E., Nozari, E., van Vugt, M., Jansen, A., & Jamalabadi, H. (2023). Network controllability measures of subnetworks: implications for neurosciences. Journal of Neural Engineering, 20(1), 016044.'
 ---
 
