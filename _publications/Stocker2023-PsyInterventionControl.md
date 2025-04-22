@@ -6,7 +6,7 @@ permalink: /publication/Stocker2023-PsyInterventionControl
 excerpt: 'This paper is about network control for behavioural data'
 date: 2023-08-24
 venue: 'Scientific Reports'
-paperurl: '[Stocker2023-PsyInterventionControl](https://github.com/juliaelina/elina-stocker/blob/master/files/Stocker_2023_Scientific_Reports.pdf)'
+paperurl: 'https://github.com/juliaelina/elina-stocker/blob/master/files/Stocker_2023_Scientific_Reports.pdf'
 citation: 'Stocker, J. E., Koppe, G., Reich, H., Heshmati, S., Kittel-Schneider, S., Hofmann, S. G., ... & Jamalabadi, H. (2023). Formalizing psychological interventions through network control theory. Scientific Reports, 13(1), 13830.'
 ---
 
