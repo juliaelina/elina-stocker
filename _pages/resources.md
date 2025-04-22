@@ -4,6 +4,17 @@ title: "Resources"
 permalink: /resources/
 ---
 
+## My Posters
+
+#### DGKN2025: 
+<iframe src="https://1drv.ms/v/c/8eb76d99c98fd0b4/EfXMyU_6eIFNiJKPGLtxmNgBOB_xmu-D0nI0L7bjZ8LHlg;wdAr=1.7777777777777777"
+        width="800px"
+        height="450px"
+        frameborder="0">
+</iframe>
+
+#### CPC2024
+
 
 ## My Presentations
 
