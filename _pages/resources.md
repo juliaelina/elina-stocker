@@ -7,13 +7,14 @@ permalink: /resources/
 ## My Posters
 
 #### DGKN2025: 
-<iframe src="https://1drv.ms/v/c/8eb76d99c98fd0b4/EfXMyU_6eIFNiJKPGLtxmNgBOB_xmu-D0nI0L7bjZ8LHlg;wdAr=1.7777777777777777"
+<iframe src="https://drive.google.com/file/d/14RYCbqGcMlOVzwk3cq7twKYjZYlS37Fi/view?usp=sharing"
         width="800px"
         height="450px"
         frameborder="0">
 </iframe>
 
 #### CPC2024
+<iframe src="/elina-stocker/blob/master/files/CPC24_poster.pdf" width="800px" height="600px"></iframe>
 
 
 ## My Presentations
