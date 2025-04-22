@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+
 Education
 ======
 * Ph.D in Face Network Lateralization, Marburg University, since Mai 2024
@@ -32,6 +33,11 @@ Work experience
   * Duties includes: Data Acquisition and Study Design
   * Supervisor: Prof. Schubö at the Psychology Department
 
+Conference Presentations
+======
+* *Interhemispheric Integration in the Neural Face Recognition Network: Does Stimulus Location Matter?*. Poster session at the DGKN Congress 2025. Frankfurt, Germany, March 14th, 2025. 
+* *Open Science within MRI Research*. Symposium: MR-Imaging within the cognitive and clinical Neurosciences. Marburg, Germany, November, 22nd, 2024. 
+* *Wie sich Veränderungen im Gesichtsnetzwerk modellieren lassen (engl. title: How to model changes in the face processing network)*. AGNP & DGBP Congress 2024. Berlin, Germany, May 9th, 2024.
 
 Publications
 ======
