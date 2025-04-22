@@ -14,7 +14,7 @@ permalink: /resources/
 </iframe>
 
 #### CPC2024
-<iframe src="https://github.com/juliaelina/elina-stocker/blob/master/files/CPC24_poster.pdf" width="800px" height="600px"></iframe>
+<iframe src="https://raw.githubusercontent.com/juliaelina/elina-stocker/blob/master/files/CPC24_poster.pdf" width="800px" height="600px"></iframe>
 
 
 ## My Presentations
