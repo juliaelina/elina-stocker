@@ -7,7 +7,7 @@ permalink: /resources/
 ## My Posters
 
 #### DGKN2025: 
-<iframe src="https://1drv.ms/v/c/8eb76d99c98fd0b4/ERIygptA-gRImhxXjD8NX4IBQW0SXLQLw2Dn8-B_vQQWVA?e=4UI92N"
+<iframe src="https://onedrive.live.com/?qt=allmyphotos&photosData=%2Fshare%2F8EB76D99C98FD0B4%21s9b823212fa4048049a1c578c3f0d5f82%3Fithint%3Dvideo%26e%3D4UI92N%26migratedtospo%3Dtrue&sw=bypassConfig&cid=8EB76D99C98FD0B4&id=8EB76D99C98FD0B4%21s9b823212fa4048049a1c578c3f0d5f82&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3YvYy84ZWI3NmQ5OWM5OGZkMGI0L0VSSXlncHRBLWdSSW1oeFhqRDhOWDRJQlFXMFNYTFFMdzJEbjgtQl92UVFXVkE%5FZT00VUk5Mk4&v=photos"
         width="800px"
         height="450px"
         frameborder="0">
