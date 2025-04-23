@@ -7,7 +7,7 @@ permalink: /resources/
 ## My Posters
 
 #### DGKN2025: 
-<iframe src="https://1drv.ms/v/c/8eb76d99c98fd0b4/ERIygptA-gRImhxXjD8NX4IBQW0SXLQLw2Dn8-B_vQQWVA?e=4UI92N;wdAr=1.7777777777777777"
+<iframe src="https://1drv.ms/v/c/8eb76d99c98fd0b4/ERIygptA-gRImhxXjD8NX4IBQW0SXLQLw2Dn8-B_vQQWVA?e=4UI92N"
         width="800px"
         height="450px"
         frameborder="0">
@@ -15,7 +15,7 @@ permalink: /resources/
 
 #### CPC2024
 <a href="https://github.com/juliaelina/elina-stocker/blob/master/files/CPC24_poster.pdf" target="_blank">Face Network Integration for peripheral Images </a>
-<iframe src="elina-stocker/blob/master/files/CPC24_poster.pdf.pdf" width="800px" height="600px"></iframe>
+<iframe src="elina-stocker/blob/master/files/CPC24_poster.pdf" width="800px" height="600px"></iframe>
 
 
 ## My Presentations
