@@ -35,9 +35,9 @@ Work experience
 
 Conference Presentations
 ======
-* *Interhemispheric Integration in the Neural Face Recognition Network: Does Stimulus Location Matter?*. Poster session at the DGKN Congress 2025. Frankfurt, Germany, March 14th, 2025. 
-* *Open Science within MRI Research*. Symposium: MR-Imaging within the cognitive and clinical Neurosciences. Marburg, Germany, November, 22nd, 2024. 
-* *Wie sich Veränderungen im Gesichtsnetzwerk modellieren lassen (engl. title: How to model changes in the face processing network)*. AGNP & DGBP Congress 2024. Berlin, Germany, May 9th, 2024.
+* *Interhemispheric Integration in the Neural Face Recognition Network: Does Stimulus Location Matter?*. Poster session at the DGKN Congress 2025. <a href="https://kongress.dgkn.de/home-kongress" target="_blank">Website</a>. Frankfurt, Germany, March 14th, 2025. 
+* *Open Science within MRI Research*. Symposium: MR-Imaging within the cognitive and clinical Neurosciences. <a href="https://github.com/juliaelina/elina-stocker/blob/master/files/Flyer_Symposium_MRT_Nov2024.pdf" target="_blank">Program</a>. Marburg, Germany, November, 22nd, 2024. 
+* *Wie sich Veränderungen im Gesichtsnetzwerk modellieren lassen (engl. title: How to model changes in the face processing network)*. AGNP & DGBP Congress 2024.  <a href="https://www.dgbp.de/event/4-gemeinsamer-kongress-der-agnp-und-dgbp-vom-08-bis-10-05-2024/" target="_blank">Website</a>. Berlin, Germany, May 9th, 2024.
 
 Publications
 ======
