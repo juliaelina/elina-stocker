@@ -20,7 +20,7 @@ Work experience
 ======
 * Spring 2024: Student Assistant
   * Marburg University
-  * Duties includes: Creation and Development of an Open Science Website
+  * Duties includes: Creation and Development of an [Open Science Website](https://brainresearch.de/)
   * Supervisor: Prof. Jansen at the Psychiatry Marburg 
 
 * 2022-2023: Student Assistant
