@@ -15,6 +15,7 @@ permalink: /resources/
 
 #### CPC2024
 <a href="https://github.com/juliaelina/elina-stocker/blob/master/files/CPC24_poster.pdf" target="_blank">Face Network Integration for peripheral Images </a>
+<iframe src="elina-stocker/blob/master/files/CPC24_poster.pdf.pdf" width="800px" height="600px"></iframe>
 
 
 ## My Presentations
