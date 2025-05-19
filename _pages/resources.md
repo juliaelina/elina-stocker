@@ -6,6 +6,9 @@ permalink: /resources/
 
 ## My Posters
 
+#### CMBB2025: 
+<a href="https://github.com/juliaelina/elina-stocker/blob/master/files/CMBB_stocker.pdf" target="_blank">Causal Mechanisms Of Individual Differences In Hemispheric Lateralization </a>
+
 #### DGKN2025: 
 <iframe src="https://1drv.ms/v/c/8eb76d99c98fd0b4/IQQSMoKbQPoESJocV4w_DV-CAU-PFZPCyvgyBiUFOwZc2-8" width="800px" height="450px" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
